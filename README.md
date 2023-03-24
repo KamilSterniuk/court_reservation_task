@@ -1,4 +1,7 @@
 # Profil_Software_recruiting_task
+Kamil Sterniuk
+sterniukkamil@gmail.com
+
 TENNIS COURT RESERVATION SCRIPT
 
 Used libraries:
